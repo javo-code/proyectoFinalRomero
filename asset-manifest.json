@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/proyectoFinalRomero/static/css/main.073c9b0a.css",
-    "main.js": "/proyectoFinalRomero/static/js/main.f5d047bc.js",
-    "static/js/787.6dbdcbe9.chunk.js": "/proyectoFinalRomero/static/js/787.6dbdcbe9.chunk.js",
-    "static/media/logo.svg": "/proyectoFinalRomero/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/proyectoFinalRomero/static/css/main.30ce57ec.css",
+    "main.js": "/proyectoFinalRomero/static/js/main.bfbdf281.js",
+    "static/media/nutricion.jpg": "/proyectoFinalRomero/static/media/nutricion.ab719f0fba57705d76ea.jpg",
+    "static/media/logo.png": "/proyectoFinalRomero/static/media/logo.09b9f799ce1601312ec9.png",
     "index.html": "/proyectoFinalRomero/index.html",
-    "main.073c9b0a.css.map": "/proyectoFinalRomero/static/css/main.073c9b0a.css.map",
-    "main.f5d047bc.js.map": "/proyectoFinalRomero/static/js/main.f5d047bc.js.map",
-    "787.6dbdcbe9.chunk.js.map": "/proyectoFinalRomero/static/js/787.6dbdcbe9.chunk.js.map"
+    "main.30ce57ec.css.map": "/proyectoFinalRomero/static/css/main.30ce57ec.css.map",
+    "main.bfbdf281.js.map": "/proyectoFinalRomero/static/js/main.bfbdf281.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f5d047bc.js"
+    "static/css/main.30ce57ec.css",
+    "static/js/main.bfbdf281.js"
   ]
 }
