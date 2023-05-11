@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/proyectoFinalRomero/static/css/main.073c9b0a.css",
+    "main.js": "/proyectoFinalRomero/static/js/main.f5d047bc.js",
+    "static/js/787.6dbdcbe9.chunk.js": "/proyectoFinalRomero/static/js/787.6dbdcbe9.chunk.js",
+    "static/media/logo.svg": "/proyectoFinalRomero/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/proyectoFinalRomero/index.html",
+    "main.073c9b0a.css.map": "/proyectoFinalRomero/static/css/main.073c9b0a.css.map",
+    "main.f5d047bc.js.map": "/proyectoFinalRomero/static/js/main.f5d047bc.js.map",
+    "787.6dbdcbe9.chunk.js.map": "/proyectoFinalRomero/static/js/787.6dbdcbe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f5d047bc.js"
+  ]
+}
