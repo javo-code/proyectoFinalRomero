@@ -1,0 +1,13 @@
+.Cartwidget{
+  background-color: #09ba09;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.CartwidgetImg{
+  height: 25px;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}

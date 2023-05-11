@@ -1,0 +1,14 @@
+.CheckoutLink{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    padding: 0;
+}
+
+.EmptyCartSms{
+    width: 100%;
+}
+
+.EmptyCartSms button {
+    margin-left: 47%;
+}

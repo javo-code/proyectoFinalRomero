@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.ItemDetailContainer {
+  display: flex;
+  justify-content: center;
+}
+.CartDetailMsn {
+  font-size: 3rem;
+  margin-bottom: 3%;
+}

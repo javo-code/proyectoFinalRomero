@@ -1,0 +1,13 @@
+.CategoryMenu {
+    display: flex;
+    gap: 10px;
+}
+
+.CategoryMenu button{
+    background-color: #09ba09;
+    color: #fff;
+}
+
+.btn-go{
+    padding: 0.5em;
+}

@@ -1,0 +1,23 @@
+.Container {display: flex;
+    justify-content: center;
+}
+
+.UserData{
+    padding: 1em;
+    gap: 1em;
+}
+
+.Input{
+    margin: 1em;
+}
+
+.label{
+    display: flex;
+    justify-content: center;
+}
+
+.label-submit a{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
