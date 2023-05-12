@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# Bienvenidos al E-commerce de NUEVA MEDICINA - INTERNACIÓN DOMICILIARIA.GIT ADD .
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es un e-commerce que te permitirá navegar por diferentes categorías de productos, agregar items a un carrito y finalizar tu compra de manera sencilla. Además, podrás generar un comprobante de compra y almacenar toda la información en una base de datos en Firestore.
 
-## Available Scripts
+## Categorías
 
-In the project directory, you can run:
+Contamos con una amplia variedad de categorías de productos, para que puedas encontrar lo que necesites de manera **fácil y rápida**. Puedes navegar por ellas en nuestra página principal y hacer clic en la categoría que te interese para ver los productos disponibles.
 
-### `npm start`
+## Carrito
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Cuando encuentres un producto que te guste, simplemente agrégalo a tu carrito haciendo clic en el botón "Agregar al carrito". En todo momento podrás ver el detalle de los productos que has seleccionado y el total a pagar. Además, podrás modificar la cantidad de productos que quieres comprar o eliminar algún item si así lo deseas.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Compra
 
-### `npm test`
+Cuando hayas terminado de agregar productos a tu carrito, podrás finalizar tu compra haciendo clic en el botón "Finalizar comprar". Serás **redirigido a una página** donde podrás revisar el detalle de tu compra y completar los datos necesarios para efectuar el pago.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Comprobante de compra
 
-### `npm run build`
+Una vez realizada la compra, podrás generar un comprobante de la misma. Este documento incluirá toda la información relevante de la compra, como los productos adquiridos, el total a pagar y la fecha de la transacción. Además, toda esta información quedará almacenada en una base de datos en **Firestore**, para que puedas acceder a ella en cualquier momento y desde cualquier lugar.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Gracias por elegir nuestro e-commerce. ¡Que disfrutes tu compra!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## AUTOR - Fernando Romero.
