@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/proyectoFinalRomero/static/css/main.30ce57ec.css",
-    "main.js": "/proyectoFinalRomero/static/js/main.237870a8.js",
+    "main.js": "/proyectoFinalRomero/static/js/main.526dfebd.js",
     "static/media/nutricion.jpg": "/proyectoFinalRomero/static/media/nutricion.ab719f0fba57705d76ea.jpg",
     "static/media/logo.png": "/proyectoFinalRomero/static/media/logo.09b9f799ce1601312ec9.png",
     "index.html": "/proyectoFinalRomero/index.html",
     "main.30ce57ec.css.map": "/proyectoFinalRomero/static/css/main.30ce57ec.css.map",
-    "main.237870a8.js.map": "/proyectoFinalRomero/static/js/main.237870a8.js.map"
+    "main.526dfebd.js.map": "/proyectoFinalRomero/static/js/main.526dfebd.js.map"
   },
   "entrypoints": [
     "static/css/main.30ce57ec.css",
-    "static/js/main.237870a8.js"
+    "static/js/main.526dfebd.js"
   ]
 }
