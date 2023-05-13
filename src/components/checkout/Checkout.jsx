@@ -58,11 +58,11 @@ const Checkout = () => {
           setOrderId(orderAdded.id);
           clearCart();
         } else {
-          console.error('Hay productos sin stock')
+          alert('Hay productos sin stock')
         }
   
       } catch (error) {
-        console.log(error)
+        alert(error)
 
       } finally {
         setLoading(false)

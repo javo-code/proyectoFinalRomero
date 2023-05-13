@@ -3,7 +3,7 @@ import { CartContext } from "../context/CartContext";
 import { Link } from "react-router-dom";
 import "./cartItem.css";
 
-const CartItem = ({ id, img, name, price, quantity, category }) => {
+const CartItem = ({ id, img, name, price, quantity }) => {
   const { removeItem } = useContext(CartContext);
 
   const handleRemove = () => {
@@ -73,10 +73,10 @@ const CartItem = ({ id, img, name, price, quantity, category }) => {
                 <div className="col-xs-12 col-md-4">
                   <div className="col-md-4 mb-2">
                     <Link
-                      to="/cartModal"
+                      to="/checkout"
                       className="btn btn-info btn-block btn-kepBuying"
                     >
-                      Ver resumen
+                      Checkout
                     </Link>
                   </div>
                 </div>

@@ -1,6 +1,6 @@
 import ItemListContainer from '../itemListContainer/ItemListContainer';
 
-const CategoryItemListContainer = ({ categoryId }) => {
+const CategoryItemListContainer = () => {
   return (
     <ItemListContainer />
   );

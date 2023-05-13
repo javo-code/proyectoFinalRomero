@@ -31,8 +31,8 @@ const ItemDetailContainer = () => {
             })
             .finally(() => {
         setLoading(false)
-      })
-  }, 500);
+        })
+    }, 500);
     
     }, [itemId]);
 
