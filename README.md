@@ -21,3 +21,7 @@ Una vez realizada la compra, podrás generar un comprobante de la misma. Este do
 Gracias por elegir nuestro e-commerce. ¡Que disfrutes tu compra!
 
 ## AUTOR - Fernando Romero.
+
+### Notas:
+
+Se ha dejado al producto "Angel (bomba de infusión)" con un stock de "0" para realizar pruebas para productos con esta condición.
